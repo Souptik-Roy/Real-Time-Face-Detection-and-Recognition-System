@@ -4,7 +4,7 @@ An intelligent facial recognition model combining OpenCV and CNN to detect and r
 
 Perfect 👍 Here’s a **well-formatted README.md** file you can directly use for your **Face Detection and Recognition (OpenCV + CNN)** GitHub project.
 
-You can copy-paste this into your repository’s `README.md` file 👇
+You can copy-paste this into your repository’s `README.md` file 👇 
 
 ---
 
